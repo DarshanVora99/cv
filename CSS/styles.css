@@ -1,0 +1,38 @@
+body{
+    background-color: #EAF6F6;
+
+ }
+
+
+ hr{
+     border-style: dotted  none  none none ;
+     
+     
+     /* Or  */
+     /*
+     border-bottom-style: none; 
+     border-left-style :none ;
+     border-right-style :none ;
+      */
+
+      /* Size of dots  */
+     border-top-width: 0.81ex;
+
+     /* Color of dots  */
+     border-top-color: rgb(11, 231, 231);
+
+
+     background-color:#EAF6F6;
+    
+     width: 7%;
+ }
+
+ h1{
+    color :#66BFBF;
+ }
+ h3{
+    color :#66BFBF;
+
+ }
+ 
+
